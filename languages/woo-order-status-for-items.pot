@@ -1,0 +1,142 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-30 12:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/class-woo-order-status-for-items-admin.php:87
+msgid "DotStore Plugins"
+msgstr ""
+
+#: admin/class-woo-order-status-for-items-admin.php:100
+msgid "WooCommerce Custom Order Status Per Product"
+msgstr ""
+
+#: admin/class-woo-order-status-for-items-admin.php:261
+msgid "-- Select item status --"
+msgstr ""
+
+#: admin/class-woo-order-status-for-items-admin.php:275
+msgid "Item status: "
+msgstr ""
+
+#: admin/class-woo-order-status-for-items-admin.php:354
+msgid "Status: "
+msgstr ""
+
+#: admin/class-woo-order-status-for-items-admin.php:355
+msgid "Date: "
+msgstr ""
+
+#: admin/class-woo-order-status-for-items-admin.php:364
+msgid "Unfulfilled"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:20
+msgid "Rate us"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:96
+#, php-format
+msgid "%s years"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:98
+msgid "a year"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:105
+#, php-format
+msgid "%s weeks"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:107
+msgid "a week"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:114
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:116
+msgid "a day"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:123
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:125
+msgid "an hour"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:132
+#, php-format
+msgid "%s minutes"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:134
+msgid "a minute"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:141
+#, php-format
+msgid "%s seconds"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:143
+msgid "a second"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:279
+#, php-format
+msgid "Are you enjoying %s Plugin?"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:282
+#, php-format
+msgid ""
+"You have been using %1$s for %2$s now. Mind leaving a review to let us know "
+"know what you think? We'd really appreciate it!"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:289
+msgid "Leave a Review"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:291
+msgid "No thanks / I already have"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items-user-feedback.php:320
+#: woo-order-status-per-product.php:133
+msgid "Custom Order Status Per Product for WooCommerce"
+msgstr ""
+
+#: includes/class-woo-order-status-for-items.php:225
+msgid "Settings"
+msgstr ""
+
+#: woo-order-status-per-product.php:134
+msgid "WooCommerce"
+msgstr ""
+
+#: woo-order-status-per-product.php:139
+#, php-format
+msgid "%1$s requires %2$s to be installed & activated!"
+msgstr ""
